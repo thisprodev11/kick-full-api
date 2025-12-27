@@ -1,2 +1,10 @@
 # kick-full-api
-follow api | view | kick account creator | full requests
+
+- account creator
+- follow
+- view
+- full requests
+- proxy support
+
+ # TELEGRAM 
+ https://t.me/ItsProdev1
